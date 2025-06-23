@@ -2,6 +2,8 @@
 
 This project provides a comprehensive simulation and optimization system for the efficient placement of Electric Vehicle (EV) charging stations within an urban area. The methodology is based on a Fixed-Location Optimization Model.
 
+You can check our repository here: https://github.com/GTU-Graduation-Project-2/Electric-Vehicles-Charging-Stations-Optimization-Model-and-Application-to-a-Dense-Urban-Network
+
 ## Reference Paper
 
 **Efficient Allocation of Electric Vehicles Charging Stations: Optimization Model and Application to a Dense Urban Network**  
