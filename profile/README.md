@@ -40,7 +40,7 @@ The primary objective of this project is to develop a comprehensive decision-sup
 **How to Use the Application:**
 
 1. **Load Home Points:** Use the button to load a JSON or CSV file containing the locations of EV users.
-2. **Define Candidates:** Select a station type ("Parking" or "Fuel") and click on the map to place potential charging station sites.
+2. **Define Candidates:** Select a station type ("Parking","Fuel", "Home") and click on the map to place potential charging station sites.
 3. **Set Parameters:** Adjust the sliders and dropdowns on the left panel to configure the scenario (e.g., EV penetration rate, station capacity, minimum radius).
 4. **Run Optimization:** Click the "Run Optimization" button to solve the model using the selected method.
 5. **Analyze Results:** Use the "Show Results" button to view detailed statistics and charts. Use the checkboxes on the map to visualize the final solution.
