@@ -5,7 +5,7 @@ cff-version: 1.0.0
 message: "If you use this software in your work, please cite it using the following metadata."
 title: "EV Charging Station Planner: An Optimization and Visualization Tool"
 
-# Authors of the software
+
 authors:
   - family-names: "Yıldız"
     given-names: "Çağrı"
@@ -17,7 +17,6 @@ authors:
 # GitHub repository URL
 repository-code: "https://github.com/GTU-Graduation-Project-2"
 
-# Abstract describing the software itself
 abstract: >-
   A graphical user interface (GUI) tool for solving the electric vehicle
   (EV) charging station location problem. This software implements both
@@ -41,15 +40,11 @@ keywords:
   - "GUI"
   - "Tkinter"
 
-# License under which the software is released
-# NOTE: Your project does not specify a license. MIT is a common, permissive
-# license for academic software, but you should choose one that fits your needs.
+
 license: "MIT"
 
-# Type of the citation object
 type: software
 
-# Version of the software
 version: 1.0.0
 
 # Date of the software release
