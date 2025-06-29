@@ -4,6 +4,8 @@ This project provides a comprehensive simulation and optimization system for the
 
 You can check our repository here: https://github.com/GTU-Graduation-Project-2/Electric-Vehicles-Charging-Stations-Optimization-Model-and-Application-to-a-Dense-Urban-Network
 
+[![DOI](https://zenodo.org/badge/1007183055.svg)](https://doi.org/10.5281/zenodo.15768037)
+
 ## Reference Paper
 
 **Efficient Allocation of Electric Vehicles Charging Stations: Optimization Model and Application to a Dense Urban Network**  
