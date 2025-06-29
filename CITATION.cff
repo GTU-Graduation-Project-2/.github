@@ -1,0 +1,77 @@
+# Citation File Format (CFF) for the EV Charging Station Planner Project
+
+
+cff-version: 1.0.0
+message: "If you use this software in your work, please cite it using the following metadata."
+title: "EV Charging Station Planner: An Optimization and Visualization Tool"
+
+# Authors of the software
+authors:
+  - family-names: "Yıldız"
+    given-names: "Çağrı"
+    affiliation: "Gebze Technical University"
+  - family-names: "Taşkın"
+    given-names: "Furkan"
+    affiliation: "Gebze Technical University"
+
+# GitHub repository URL
+repository-code: "https://github.com/GTU-Graduation-Project-2"
+
+# Abstract describing the software itself
+abstract: >-
+  A graphical user interface (GUI) tool for solving the electric vehicle
+  (EV) charging station location problem. This software implements both
+  Mixed Integer Programming (MIP) and Genetic Algorithm (GA) approaches
+  to find optimal station placements based on user-defined parameters,
+  home locations, and candidate sites. It features an interactive map for
+  data input, a trip-based demand generator for realistic simulations,
+  and visualization tools including results charts and heatmaps of travel
+  frequency. The tool is designed as a decision-support system for urban
+  infrastructure planning.
+
+# Keywords to help discover the software
+keywords:
+  - "Electric Vehicles"
+  - "Charging Stations"
+  - "Optimization"
+  - "Location-Allocation"
+  - "Mixed-Integer Programming"
+  - "Genetic Algorithm"
+  - "Decision Support System"
+  - "GUI"
+  - "Tkinter"
+
+# License under which the software is released
+# NOTE: Your project does not specify a license. MIT is a common, permissive
+# license for academic software, but you should choose one that fits your needs.
+license: "MIT"
+
+# Type of the citation object
+type: software
+
+# Version of the software
+version: 1.0.0
+
+# Date of the software release
+date-released: 2025-06-29
+
+
+preferred-citation:
+  type: report
+  title: "Efficient Allocation of Electric Vehicles Charging Stations: Optimization Model and Application to a Dense Urban Network"
+  authors:
+    - family-names: "Yıldız"
+      given-names: "Çağrı"
+      affiliation: "Gebze Technical University"
+    - family-names: "Taşkın"
+      given-names: "Furkan"
+      affiliation: "Gebze Technical University"
+  institution:
+    name: "Gebze Technical University"
+    department: "Department of Computer Engineering"
+  year: 2025
+  date-accessed: 2025-06-29 
+  location:
+    city: "Gebze"
+    country: "TR"
+  notes: "Undergraduate Graduation Project supervised by Prof. Dr. Didem Gözüpek."
