@@ -70,6 +70,4 @@ This project was developed as a Graduation Project for the CSE 495 / 496 courses
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
